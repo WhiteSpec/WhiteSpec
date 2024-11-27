@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadh Annaufal</h1>
 
 <div align="center">
-![5UKD](https://github.com/user-attachments/assets/a1929ff2-9bf1-4fe9-858f-a593a6840211)
+https://github.com/user-attachments/assets/a1929ff2-9bf1-4fe9-858f-a593a6840211
 </div>
 
 <h3 align="left">Connect with me:</h3>
