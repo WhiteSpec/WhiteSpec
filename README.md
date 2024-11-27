@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadh Annaufal</h1>
 
 <div align="center">
-  <img src="<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/5UKD" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>" alt="Welcome GIF" width="500"/>
+  <img src="https://i.gifer.com/5UKD.mp4" alt="Welcome GIF" width="500"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
