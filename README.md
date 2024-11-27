@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fadh Annaufal</h1>
 
-![5UKD](https://github.com/user-attachments/assets/61d99d50-bae5-449e-bf25-2b4ef84b20d9)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/61d99d50-bae5-449e-bf25-2b4ef84b20d9" alt="5UKD">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
