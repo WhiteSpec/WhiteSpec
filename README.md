@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadh Annaufal</h1>
 
 <div align="center">
-  <img src="https://i.gifer.com/5UKD.mp4" alt="Welcome GIF" width="500"/>
+  <img src="https://gifer.com/en/5UKD" alt="description of the gif" width="300" height="auto">
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -31,6 +31,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a> 
+  <br>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a> 
