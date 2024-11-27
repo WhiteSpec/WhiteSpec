@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadh Annaufal</h1>
 
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/c3imjdzHmn2ZMmhTGB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/TheCheekyPanda-bored-boring-cheekypanda-c3imjdzHmn2ZMmhTGB">via GIPHY</a></p>
+![5UKD](https://github.com/user-attachments/assets/a1929ff2-9bf1-4fe9-858f-a593a6840211)
 </div>
 
 <h3 align="left">Connect with me:</h3>
