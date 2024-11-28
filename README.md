@@ -8,7 +8,7 @@
 
 Project List
 <div align="center">
-  <table>
+  <table style="width: 100%;">
     <thead>
       <tr>
         <th>Project Name</th>
@@ -27,6 +27,7 @@ Project List
     </tbody>
   </table>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
