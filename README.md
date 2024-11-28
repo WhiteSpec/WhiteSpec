@@ -6,28 +6,27 @@
 
 
 <h1>📂 Project List</h1>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Link</th>
-      <th>Short Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Project 1 Name</td>
-      <td><a href="https://github.com/">GitHub Link</a></td>
-      <td>A brief description of what this project does.</td>
-    </tr>
-    <tr>
-      <td>Project 2 Name</td>
-      <td><a href="https://github.com/WhiteSpec/NovelNoodle/">GitHub Link</a></td>
-      <td>A brief description of what this project does.</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Project Name</th>
+        <th>Link</th>
+        <th>Short Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/WhiteSpec/ScreamScript">ScreamScript</a></td>
+        <td>Horror Game framework for Unity</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/WhiteSpec/NovelNoodle/">NovelNoodle</a></td>
+        <td>Visual Novel framework for Unity</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
