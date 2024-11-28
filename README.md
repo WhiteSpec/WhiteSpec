@@ -28,10 +28,10 @@
   </table>
 </div>
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Project Name                                   | Description                         |
+|-----------------------------------------------|-------------------------------------|
+| [ScreamScript](https://github.com/WhiteSpec/ScreamScript) | Horror Game framework for Unity    |
+| [NovelNoodle](https://github.com/WhiteSpec/NovelNoodle/)   | Visual Novel framework for Unity   |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
