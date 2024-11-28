@@ -7,12 +7,12 @@
 
 <h1>📂 Project List</h1>
 <div align="center">
+  🌟 Welcome to my corner of the coding universe! 🌟
   <table>
     <thead>
       <tr>
         <th>Project Name</th>
-        <th>Link</th>
-        <th>Short Description</th>
+        <th>Description</th>
       </tr>
     </thead>
     <tbody>
