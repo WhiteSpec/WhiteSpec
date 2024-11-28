@@ -4,10 +4,10 @@
   <img src="https://github.com/user-attachments/assets/61d99d50-bae5-449e-bf25-2b4ef84b20d9" alt="5UKD">
 </div>
 
+<h4 align="center" >  🌟 Welcome to my corner of the coding universe! 🌟 </h4>
 
-<h1>📂 Project List</h1>
+Project List
 <div align="center">
-  🌟 Welcome to my corner of the coding universe! 🌟
   <table>
     <thead>
       <tr>
