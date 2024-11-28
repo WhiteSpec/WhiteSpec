@@ -8,10 +8,24 @@
 
 <h3>Project List </h3>
 <div align="center">
-| Project Name                                   | Description                         |
-|-----------------------------------------------|-------------------------------------|
-| [ScreamScript](https://github.com/WhiteSpec/ScreamScript) | Horror Game framework for Unity    |
-| [NovelNoodle](https://github.com/WhiteSpec/NovelNoodle/)   | Visual Novel framework for Unity   |
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/WhiteSpec/ScreamScript">ScreamScript</a></td>
+        <td>Horror Game framework for Unity</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/WhiteSpec/NovelNoodle/">NovelNoodle</a></td>
+        <td>Visual Novel framework for Unity</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 
