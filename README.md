@@ -6,9 +6,9 @@
 
 <h4 align="center" >  🌟 Welcome to my corner of the coding universe! 🌟 </h4>
 
-Project List
+<h3>Project List </h3>
 <div align="center">
-  <table style="width: 100%;">
+  <table width="100%">
     <thead>
       <tr>
         <th>Project Name</th>
