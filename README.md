@@ -4,6 +4,31 @@
   <img src="https://github.com/user-attachments/assets/61d99d50-bae5-449e-bf25-2b4ef84b20d9" alt="5UKD">
 </div>
 
+
+<h1>📂 Project List</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Link</th>
+      <th>Short Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project 1 Name</td>
+      <td><a href="https://github.com/">GitHub Link</a></td>
+      <td>A brief description of what this project does.</td>
+    </tr>
+    <tr>
+      <td>Project 2 Name</td>
+      <td><a href="https://github.com/WhiteSpec/NovelNoodle/">GitHub Link</a></td>
+      <td>A brief description of what this project does.</td>
+    </tr>
+  </tbody>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/https://discord.gg/qjxEGR4H" target="blank">
